@@ -1,0 +1,6 @@
+1- Install Python.
+2- Install openpyxl using "pip install openpyxl" in PowerShell.
+3- Download main.py and TheDocumentToProcess.xlsx. Put them into the same folder.
+4- Open your preferred Python IDE.
+5- Click "Run".
+6- When the run is completed, open "output.xlsx" to review the result
